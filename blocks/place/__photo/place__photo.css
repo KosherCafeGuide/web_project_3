@@ -1,0 +1,5 @@
+.place__photo {
+    max-width: 460px;
+    min-width: 320px;
+    grid-area: photo;
+}

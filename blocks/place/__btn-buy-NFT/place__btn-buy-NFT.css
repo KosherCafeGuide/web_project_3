@@ -1,0 +1,9 @@
+.place__btn-buy-NFT {
+    background-color: #0278FE;
+    color: #fff;
+    border-radius: 4px;
+    padding: 13px 20px;
+    width: 248px;
+    height: 48px;
+    grid-area: buy-NFT;
+}
