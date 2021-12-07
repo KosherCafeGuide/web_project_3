@@ -16,8 +16,20 @@
 @import url(../blocks/places/places.css);
 @import url(../blocks/place/place.css);
 @import url(../blocks/place/__title/place__title.css);
-@import url(../blocks/place/__artist-tag/place__artist-tag.css);
-@import url(../blocks/place/__artist-name/place__artist-name.css);
+
+/* @import url(../blocks/place/__artist-tag/place__artist-tag.css);
+@import url(../blocks/place/__artist-name/place__artist-name.css);*/
+
+@import url(../blocks/place/__artist/place__artist.css);
+@import url(../blocks/place/__artist/_label/place__artist_label.css);
+@import url(../blocks/place/__artist/_name/place__artist_name.css);
+
+/**/
+
 @import url(../blocks/place/__photo/place__photo.css);
+
+/**/
+
+@import url(../blocks/place/__paragraphs/place__paragraphs.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
 @import url(../blocks/place/__btn-buy-NFT/place__btn-buy-NFT.css);

@@ -1,0 +1,6 @@
+.place__artist {
+    grid-area: artist;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
