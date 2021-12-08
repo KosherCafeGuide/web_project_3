@@ -1,0 +1,9 @@
+.cover {
+    background-image: url(../../images/footer__background.jpg);
+    width: 100%;
+    max-width: 1184px;
+    max-height: 740px;
+    padding-bottom: 62.5%;
+    margin: 92px auto 0;
+    background-repeat: no-repeat;
+}
