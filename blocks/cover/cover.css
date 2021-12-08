@@ -3,7 +3,11 @@
     width: 100%;
     max-width: 1184px;
     max-height: 740px;
-    padding-bottom: 62.5%;
+    /*padding-bottom: 62.5%;*/
     margin: 92px auto 0;
     background-repeat: no-repeat;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    z-index: 0;
 }

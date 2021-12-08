@@ -1,0 +1,14 @@
+.group {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 760px;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    z-index: 2;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 3;
+}

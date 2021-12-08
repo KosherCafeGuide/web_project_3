@@ -1,0 +1,8 @@
+.group__address {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    /* or 122% */
+    text-align: center;
+}
