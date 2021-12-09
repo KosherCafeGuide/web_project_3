@@ -1,7 +1,7 @@
 .place {
     display: grid;
-    grid-template-columns: 115fr 121fr;
-    grid-template-areas: "title artist" "photo paragraph" "photo paragraph" "buy-NFT paragraph";
+    /*grid-template-columns: 115fr 121fr;*/
+    grid-template-areas: "title artist" "photo paragraph" "photo paragraph" "buy-NFT paragraph" ". paragraph";
     row-gap: 48px;
     column-gap: 40px;
     margin: 80px auto 0;

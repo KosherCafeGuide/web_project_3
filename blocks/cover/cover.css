@@ -1,11 +1,11 @@
 .cover {
-    background-image: url(../../images/footer__background.jpg);
+    background: url(../../images/footer__background.jpg)no-repeat center;
     width: 100%;
     max-width: 1184px;
     max-height: 740px;
-    /*padding-bottom: 62.5%;*/
     margin: 92px auto 0;
     background-repeat: no-repeat;
+    background-size: cover;
     display: grid;
     grid-template-columns: repeat(3, auto);
     grid-template-rows: 1fr 1fr 1fr;
