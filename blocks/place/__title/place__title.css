@@ -3,7 +3,8 @@
     font-weight: 900;
     line-height: 76px;
     font-style: normal;
-    width: 460px;
+    min-width: 320px;
+    max-width: 460px;
     text-align: left;
     margin: 0;
     grid-area: title;

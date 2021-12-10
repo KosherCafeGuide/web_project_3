@@ -1,5 +1,6 @@
 .place__photo {
-    max-width: 460px;
-    min-width: 320px;
+    width: 100%;
     grid-area: photo;
+    box-sizing: border-box;
+    object-fit: scale-down;
 }
