@@ -7,3 +7,7 @@
     height: 48px;
     grid-area: buy-NFT;
 }
+
+.place__btn-buy-NFT:hover {
+    cursor: pointer;
+}

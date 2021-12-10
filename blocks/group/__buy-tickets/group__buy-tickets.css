@@ -1,0 +1,15 @@
+.group__buy-tickets {
+    background: #0278FE;
+    border-radius: 4px;
+    width: 137px;
+    height: 48px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.group__buy-tickets:hover {
+    cursor: pointer;
+}

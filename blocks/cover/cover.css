@@ -11,3 +11,7 @@
     grid-template-rows: 1fr 1fr 1fr;
     z-index: 0;
 }
+
+.cover:hover {
+    max-height: 750px;
+}
