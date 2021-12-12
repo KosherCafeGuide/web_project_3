@@ -1,4 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@font-face {
+    font-family: Inter;
+    src: url(../../fonts/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZ9hiA.woff2);
+}
+
 .site-content {
     background-color: rgba(42, 44, 47, 1);
     color: rgba(255, 255, 255, 1);
