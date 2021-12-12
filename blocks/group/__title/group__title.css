@@ -1,5 +1,5 @@
 .group__title {
-    margin: 0;
+    margin: 0 0 32px;
     padding: 0;
     font-style: normal;
     font-weight: 900;
@@ -11,7 +11,7 @@
 
 @media screen and (max-width:680px) {
     .group__title {
-        margin: 0;
+        margin: 0 0 16px;
         padding: 0;
         font-style: normal;
         font-weight: normal;

@@ -8,8 +8,15 @@
     font-size: 18px;
     line-height: 22px;
     color: #FFFFFF;
+    margin-top: 32px;
 }
 
 .group__buy-tickets:hover {
     cursor: pointer;
+}
+
+@media screen and (max-width:680px) {
+    .group__buy-tickets {
+        margin-top: 16px;
+    }
 }
