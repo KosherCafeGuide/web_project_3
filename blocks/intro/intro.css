@@ -2,3 +2,9 @@
     max-width: 785px;
     margin-top: 92px;
 }
+
+@media screen and (max-width:680px) {
+    .intro {
+        margin-top: 64px;
+    }
+}

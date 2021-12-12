@@ -5,3 +5,13 @@
     line-height: 22px;
     margin: 0;
 }
+
+@media screen and (max-width:680px) {
+    .place__artist_name {
+        font-size: 18px;
+        font-style: normal;
+        font-weight: normal;
+        line-height: 22px;
+        margin: 0;
+    }
+}

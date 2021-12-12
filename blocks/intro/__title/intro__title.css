@@ -5,3 +5,13 @@
     font-style: normal;
     text-align: left;
 }
+
+@media screen and (max-width:680px) {
+    .intro__title {
+        font-size: 32px;
+        font-weight: 900;
+        line-height: 35px;
+        font-style: normal;
+        text-align: left;
+    }
+}

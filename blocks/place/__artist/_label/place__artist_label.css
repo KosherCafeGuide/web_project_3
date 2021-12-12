@@ -8,3 +8,15 @@
     color: #AAAAAA;
     margin: 0;
 }
+
+@media screen and (max-width:680px) {
+    .place__artist_label {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 14.52px;
+        letter-spacing: 12%;
+        text-transform: uppercase;
+        color: #AAAAAA;
+        margin: 0;
+    }
+}

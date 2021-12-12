@@ -7,3 +7,14 @@
     margin-top: 10px;
     max-width: 720px;
 }
+
+@media screen and (max-width:680px) {
+    .intro__author {
+        font-size: 24px;
+        font-weight: normal;
+        line-height: 34px;
+        font-style: normal;
+        text-align: right;
+        margin-top: 10px;
+    }
+}
