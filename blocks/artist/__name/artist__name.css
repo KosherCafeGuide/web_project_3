@@ -1,4 +1,4 @@
-.place__artist_name {
+.artist__name {
     font-size: 18px;
     font-style: normal;
     font-weight: normal;
@@ -7,7 +7,7 @@
 }
 
 @media screen and (max-width:680px) {
-    .place__artist_name {
+    .artist__name {
         font-size: 18px;
         font-style: normal;
         font-weight: normal;

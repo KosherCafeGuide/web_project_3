@@ -1,4 +1,4 @@
-.place__artist_label {
+.artist__label {
     font-size: 12px;
     font-weight: 400;
     line-height: 14.52px;
@@ -10,7 +10,7 @@
 }
 
 @media screen and (max-width:680px) {
-    .place__artist_label {
+    .artist__label {
         font-size: 12px;
         font-weight: 400;
         line-height: 14.52px;

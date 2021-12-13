@@ -1,4 +1,4 @@
-.place__artist {
+.artist {
     grid-area: artist;
     display: flex;
     flex-direction: column;
