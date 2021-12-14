@@ -6,6 +6,9 @@
     width: 248px;
     height: 48px;
     grid-area: buy-NFT;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 22px;
 }
 
 .place__btn-buy-NFT:hover {

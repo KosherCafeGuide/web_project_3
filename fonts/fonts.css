@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Inter-Black;
+    src: url(Inter-Black.ttf);
+}
+
+@font-face {
+    font-family: Inter-Regular;
+    src: url(Inter-Regular.ttf);
+}
+
+@font-face {
+    font-family: Inter-SemiBold;
+    src: url(Inter-SemiBold.ttf);
+}
