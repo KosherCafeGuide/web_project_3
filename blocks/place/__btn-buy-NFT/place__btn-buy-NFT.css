@@ -2,13 +2,15 @@
     background-color: #0278FE;
     color: #fff;
     border-radius: 4px;
-    padding: 13px 20px;
+    /*padding: 13px 20px; causes overflow. might only be needed for flex vs button*/
     width: 248px;
     height: 48px;
     grid-area: buy-NFT;
+    font-family: "Inter";
+    font-weight: 600;
     font-style: normal;
     font-size: 18px;
-    line-height: 22px;
+    line-height: 21.78px;
 }
 
 .place__btn-buy-NFT:hover {
