@@ -7,7 +7,7 @@
     margin: 80px auto 0;
 }
 
-@media screen and (max-width:680px) {
+@media screen and (max-width:804px) {
     .place {
         display: grid;
         grid-template-areas: "title" "artist" "photo" "paragraph" "buy-NFT";

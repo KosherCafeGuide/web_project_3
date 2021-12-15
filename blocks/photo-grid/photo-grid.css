@@ -7,9 +7,31 @@
     justify-content: center;
 }
 
-@media screen and (max-width:680px) {
+@media screen and (max-width:1279px) {
     .photo-grid {
-        max-width: 92.5%;
+        max-width: 884px;
+        margin: 90px auto 0;
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(284px, 1fr));
+        gap: 12px;
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width:955px) {
+    .photo-grid {
+        max-width: 584px;
+        margin: 90px auto 0;
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(284px, 1fr));
+        gap: 12px;
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width:632px) {
+    .photo-grid {
+        max-width: 308px;
         margin: 90px auto 0;
         display: grid;
         grid-template-columns: repeat(auto-fill, minmax(284px, 1fr));
