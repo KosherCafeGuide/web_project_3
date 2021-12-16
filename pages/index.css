@@ -45,10 +45,10 @@
 
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__overlay/cover__overlay.css);
-@import url(../blocks/group/group.css);
-@import url(../blocks/group/__title/group__title.css);
-@import url(../blocks/group/__address/group__address.css);
-@import url(../blocks/group/__buy-tickets/group__buy-tickets.css);
+@import url(../blocks/cover/__group/cover__group.css);
+@import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/__address/cover__address.css);
+@import url(../blocks/cover/__buy-tickets/cover__buy-tickets.css);
 
 /**/
 

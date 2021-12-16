@@ -1,4 +1,4 @@
-.group__buy-tickets {
+.cover__buy-tickets {
     background: #0278FE;
     border-radius: 4px;
     width: 137px;
@@ -12,13 +12,13 @@
     margin-top: 32px;
 }
 
-.group__buy-tickets:hover {
+.cover__buy-tickets:hover {
     cursor: pointer;
     background: #0063D2;
 }
 
 @media screen and (max-width:680px) {
-    .group__buy-tickets {
+    .cover__buy-tickets {
         margin-top: 16px;
     }
 }
