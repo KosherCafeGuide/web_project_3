@@ -1,3 +1,8 @@
 .header__link {
     text-decoration: none;
 }
+
+.header__link:hover {
+    cursor: pointer;
+    background: #0063D2;
+}

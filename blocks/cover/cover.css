@@ -2,7 +2,6 @@
     background: url(../../images/footer__background.jpg)no-repeat center;
     width: 100%;
     max-width: 1184px;
-    max-height: 62.5%;
     margin: 92px auto 0;
     background-repeat: no-repeat;
     background-size: contain;
@@ -12,22 +11,13 @@
     z-index: 0;
 }
 
-.cover:hover {
-    max-height: 750px;
+.cover:hover .cover__overlay {
+    opacity: 0.8;
 }
 
 @media screen and (max-width:680px) {
     .cover {
-        background: url(../../images/footer__background.jpg)no-repeat center;
-        width: 100%;
         max-width: 680px;
-        max-height: 62.5%;
         margin: 64px auto 0;
-        background-repeat: no-repeat;
-        background-size: contain;
-        display: grid;
-        grid-template-columns: repeat(3, auto);
-        grid-template-rows: 1fr 1fr 1fr;
-        z-index: 0;
     }
 }

@@ -10,12 +10,7 @@
 
 @media screen and (max-width:680px) {
     .group__address {
-        font-style: normal;
-        font-weight: normal;
         font-size: 14px;
         line-height: 16px;
-        text-align: center;
-        margin-block-start: 0;
-        margin-block-end: 0;
     }
 }
