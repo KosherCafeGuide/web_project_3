@@ -8,6 +8,7 @@
 
 @media screen and (max-width:768px) {
     .intro {
+        margin-top: 88px;
         max-width: 720px;
     }
 }

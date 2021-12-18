@@ -1,3 +1,18 @@
 .footer {
-    margin: 92px auto 24px;
+    padding: 92px 0 24px;
+    background-color: rgba(42, 44, 47, 1);
+    color: rgba(255, 255, 255, 1);
+    font-family: 'Inter', sans-serif;
+}
+
+@media screen and (max-width: 770px) {
+    .footer {
+        margin: 88px auto 24px;
+    }
+}
+
+@media screen and (max-width: 330px) {
+    .footer {
+        margin: 64px auto 24px;
+    }
 }

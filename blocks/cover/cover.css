@@ -4,8 +4,6 @@
     max-width: 1184px;
     margin: 44px auto 0;
     /* 92px - 48px = 44px */
-    background-repeat: no-repeat;
-    background-size: contain;
     display: grid;
     grid-template-columns: repeat(3, auto);
     grid-template-rows: 1fr 1fr 1fr;
@@ -16,10 +14,27 @@
     opacity: 0.8;
 }
 
+@media screen and (max-width:1184) {
+    .cover {
+        max-width: 100%;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .cover {
+        max-height: 746px;
+    }
+}
+
 @media screen and (max-width:680px) {
     .cover {
-        max-width: 680px;
         margin: 34px auto 0;
         /* 64px - 30px = 34px */
+    }
+}
+
+@media screen and (max-width:320px) {
+    .cover {
+        max-height: 254px;
     }
 }
