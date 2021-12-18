@@ -1,0 +1,19 @@
+.place__btn-buy-nft {
+    background-color: #0278FE;
+    color: #fff;
+    border-radius: 4px;
+    border-style: none;
+    width: 248px;
+    height: 48px;
+    grid-area: buy-nft;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 21.78px;
+}
+
+.place__btn-buy-nft:hover {
+    cursor: pointer;
+    background: #0063D2;
+}
