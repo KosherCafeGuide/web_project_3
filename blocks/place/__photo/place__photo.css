@@ -4,3 +4,9 @@
     box-sizing: border-box;
     object-fit: scale-down;
 }
+
+@media screen and (max-width:372px) {
+    .place__photo {
+        max-width: 100%;
+    }
+}
