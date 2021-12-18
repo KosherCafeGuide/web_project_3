@@ -8,6 +8,6 @@
 
 @media screen and (max-width:372px) {
     .place__artist-name {
-        max-width: 93.75%
+        max-width: 93.75%;
     }
 }
