@@ -8,3 +8,7 @@
     grid-row-end: 4;
     z-index: 1;
 }
+
+.cover:hover .cover__overlay {
+    opacity: 0.8;
+}
