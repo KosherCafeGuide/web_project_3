@@ -1,3 +1,7 @@
 .place__paragraphs {
     grid-area: paragraph;
 }
+
+.place__paragraphs :last-of-type {
+    margin: 0;
+}

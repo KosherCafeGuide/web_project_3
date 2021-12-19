@@ -7,3 +7,9 @@
     color: #AAAAAA;
     margin: 0;
 }
+
+@media screen and (max-width:320px) {
+    .place__artist-label {
+        max-width: 288px;
+    }
+}

@@ -2,8 +2,7 @@
     background: url(../../images/footer__background.jpg)no-repeat center;
     width: 100%;
     max-width: 1184px;
-    margin: 44px auto 0;
-    /* 92px - 48px = 44px */
+    margin: 92px auto 0;
     display: grid;
     grid-template-columns: repeat(3, auto);
     grid-template-rows: 1fr 1fr 1fr;
@@ -18,14 +17,14 @@
 
 @media screen and (max-width:768px) {
     .cover {
+        margin: 88px auto 0;
         max-height: 746px;
     }
 }
 
 @media screen and (max-width:680px) {
     .cover {
-        margin: 34px auto 0;
-        /* 64px - 30px = 34px */
+        margin: 64px auto 0;
     }
 }
 

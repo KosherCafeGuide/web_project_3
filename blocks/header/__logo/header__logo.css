@@ -3,3 +3,9 @@
     align-self: center;
     margin: auto;
 }
+
+@media screen and (max-width:320px) {
+    .header__logo {
+        max-width: 200px;
+    }
+}

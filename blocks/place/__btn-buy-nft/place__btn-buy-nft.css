@@ -17,3 +17,9 @@
     cursor: pointer;
     background: #0063D2;
 }
+
+@media screen and (max-width:320px) {
+    .place__btn-buy-nft {
+        max-width: 288px;
+    }
+}
