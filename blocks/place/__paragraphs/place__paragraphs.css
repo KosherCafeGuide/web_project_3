@@ -5,3 +5,10 @@
 .place__paragraphs :last-of-type {
     margin: 0;
 }
+
+@media screen and (max-width:320px) {
+    .place__paragraphs {
+        width: 288px;
+        margin: 0 auto 0;
+    }
+}

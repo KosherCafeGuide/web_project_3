@@ -6,14 +6,9 @@
     margin: 0;
 }
 
-@media screen and (max-width:372px) {
-    .place__artist-name {
-        max-width: 93.75%;
-    }
-}
-
 @media screen and (max-width:320px) {
     .place__artist-name {
-        max-width: 288px;
+        width: 288px;
+        margin: 0 auto 0;
     }
 }
